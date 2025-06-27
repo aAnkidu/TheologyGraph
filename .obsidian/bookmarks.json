@@ -1,0 +1,102 @@
+{
+  "items": [
+    {
+      "type": "graph",
+      "ctime": 1750956685315,
+      "title": "Graph",
+      "options": {
+        "collapse-filter": false,
+        "search": "",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "path:History/References  ",
+            "color": {
+              "a": 1,
+              "rgb": 5268007
+            }
+          },
+          {
+            "query": "path:\"Bible/New Testement/Early Christianity\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 4100586
+            }
+          },
+          {
+            "query": "path:\"Bible/New Testement/Early Judaism\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 14725458
+            }
+          },
+          {
+            "query": "path:History/Pagans  ",
+            "color": {
+              "a": 1,
+              "rgb": 10958133
+            }
+          },
+          {
+            "query": "file:Study",
+            "color": {
+              "a": 1,
+              "rgb": 12605884
+            }
+          },
+          {
+            "query": "path:Philosopy  ",
+            "color": {
+              "a": 1,
+              "rgb": 7542989
+            }
+          },
+          {
+            "query": " path:History  ",
+            "color": {
+              "a": 1,
+              "rgb": 5431378
+            }
+          },
+          {
+            "query": "tag:#reserch_topic  ",
+            "color": {
+              "a": 1,
+              "rgb": 16205220
+            }
+          },
+          {
+            "query": "tag:#resources  ",
+            "color": {
+              "a": 1,
+              "rgb": 15634895
+            }
+          },
+          {
+            "query": "path:\"Bible/New Testement/Gospels\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 1843074
+            }
+          }
+        ],
+        "collapse-display": false,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1.35052083333333,
+        "lineSizeMultiplier": 1.4015625,
+        "collapse-forces": false,
+        "centerStrength": 0.21875,
+        "repelStrength": 8.22916666666667,
+        "linkStrength": 0.760416666666667,
+        "linkDistance": 30,
+        "scale": 0.4296933580712622,
+        "close": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+[[Forms of Early Judaism]]
+The **Essenes** were a Jewish sect that had serious, sometimes violent, disagreements with both the Pharisees and the Sadducees. They criticized the Pharisees for being too lax, accusing them of exploiting loopholes to avoid strictly following the Law. The Essenes viewed the Sadducees as corrupt leaders who misunderstood or disobeyed God’s laws, especially regarding the Temple cult, believing the Sadducees had defiled the Temple and its sacrificial system.
+
+To escape these corrupt influences, the Essenes formed **monastic-like communities** focused on preserving spiritual and ritual purity. They lived apart from the wider Jewish society, seeking to obey God fully and anticipating God’s imminent intervention to overthrow evil forces, including the Jerusalem leadership, and to establish a righteous kingdom on earth.
+
+Though the Essenes are not mentioned in the New Testament, they are well known to us because they produced the **Dead Sea Scrolls**, a rich collection of ancient Jewish texts.

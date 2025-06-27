@@ -1,0 +1,3 @@
+https://en.wikipedia.org/wiki/Menelaus_(High_Priest)
+
+**Menelaus** ([Hebrew](https://en.wikipedia.org/wiki/Hebrew_language "Hebrew language"): מנלאוס) was [High Priest in Jerusalem](https://en.wikipedia.org/wiki/List_of_High_Priests_of_Israel "List of High Priests of Israel") from about 172 BC to about 161 BC. He was high priest at the beginning of the [[Maccabean Revolt]] and help to spread [[Hellenization]]

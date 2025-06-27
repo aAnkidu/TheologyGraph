@@ -1,0 +1,4 @@
+[[Forms of Early Judaism]]
+Josephus refers to a group of Jews as the **“fourth philosophy”** to distinguish them from the Pharisees, Sadducees, and Essenes. This faction included several groups who supported the use of **armed rebellion** to overthrow the foreign rulers of Judea, particularly the Romans.
+
+They believed that the land was rightfully theirs by divine grant, and that God desired them to reclaim it through force. Their commitment to violent resistance ultimately led to the **Jewish War of 66 C.E.**, about 35 years after Jesus’ death. This conflict resulted in devastating consequences: a massive loss of Jewish life, the destruction of the Temple, and the razing of Jerusalem.
