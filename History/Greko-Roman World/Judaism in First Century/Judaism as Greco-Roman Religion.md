@@ -8,5 +8,5 @@ Thus a distinctive feature of Jews around the world was that they did not worshi
 
 ##### Israel’s Places of Worship
 
-* [[The Second Temple]]
+* [[Second Temple]]
 * [[Synagogues]]

@@ -1,7 +1,7 @@
 https://en.wikipedia.org/wiki/Second_Temple
 The **Jerusalem Temple** was the **central place of worship** for Jews, where **animal sacrifices** were offered in accordance with the **Torah**. It was regarded as the **only legitimate place** to worship the **God of Israel**, who was believed to dwell in the **Holy of Holies**—a sacred, empty room symbolizing God’s **invisibility and holiness**, unlike the idol-filled temples of other religions.
 
-The **Second Temple**, originally built after the Babylonian exile and later **massively expanded by [[Herod the Great]]**, stood as one of the **most impressive religious structures** of the ancient world:
+The **Second Temple**, originally built after the Babylonian exile and later **massively expanded by [[👑 Herod the Great]]**, stood as one of the **most impressive religious structures** of the ancient world:
 
 - Spanned an area of **25 football fields**
 - Featured **100-foot-high walls**, grand **stone gates**, and lavish **gold decoration**

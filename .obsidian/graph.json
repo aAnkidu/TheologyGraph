@@ -8,6 +8,13 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "tag:#todo  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
       "query": "path:History/References  ",
       "color": {
         "a": 1,
@@ -32,7 +39,7 @@
       "query": "path:\"History/Greko-Roman World/Pagans\"  ",
       "color": {
         "a": 1,
-        "rgb": 10958133
+        "rgb": 8004644
       }
     },
     {
@@ -71,6 +78,13 @@
       }
     },
     {
+      "query": "path:\"Bible/New Testement/Gospels/Historical criticism\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
       "query": "path:\"Bible/New Testement/Gospels\"  ",
       "color": {
         "a": 1,
@@ -90,18 +104,32 @@
         "a": 1,
         "rgb": 16762880
       }
+    },
+    {
+      "query": "path:Сіроус  ",
+      "color": {
+        "a": 1,
+        "rgb": 16682251
+      }
+    },
+    {
+      "query": "path:\"Bible/New Testement\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.35052083333333,
+  "textFadeMultiplier": -1.2,
+  "nodeSizeMultiplier": 1.0953125,
   "lineSizeMultiplier": 1.4015625,
   "collapse-forces": false,
-  "centerStrength": 0.21875,
-  "repelStrength": 8.22916666666667,
-  "linkStrength": 0.760416666666667,
-  "linkDistance": 30,
-  "scale": 0.870664659862161,
+  "centerStrength": 0.46875,
+  "repelStrength": 16.7708333333333,
+  "linkStrength": 0.9375,
+  "linkDistance": 155,
+  "scale": 0.48691532720868946,
   "close": false
 }

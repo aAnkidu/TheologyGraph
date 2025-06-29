@@ -1,5 +1,5 @@
-- The **synagogue** (from Greek _“gathering together”_) was the **center of Jewish worship** outside [[The Second Temple]], especially in the **Diaspora**.
-- Unlike [[The Second Temple]], synagogues did **not involve animal sacrifice**. Worship focused on **reading and discussing the Torah**, **prayer**, and **communal gathering**, especially on the **Sabbath**.
+- The **synagogue** (from Greek _“gathering together”_) was the **center of Jewish worship** outside [[Second Temple]], especially in the **Diaspora**.
+- Unlike [[Second Temple]], synagogues did **not involve animal sacrifice**. Worship focused on **reading and discussing the Torah**, **prayer**, and **communal gathering**, especially on the **Sabbath**.
 - Meetings took place in **homes or dedicated buildings**, led by **literate members** of the community.
 - By Jesus’ time, **synagogues existed wherever Jewish communities** were found—in **Palestine and throughout the Roman Empire**, as a practical alternative for Jews who could not travel to Jerusalem
 - Though similar to **Greco-Roman associations** (like trade or burial clubs), synagogues were **distinct** in:

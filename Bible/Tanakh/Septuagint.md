@@ -1,1 +1,1 @@
-Is the earliest extant Greek translation of the [[Hebrew Bible]]
+Is the earliest extant Greek translation of the [[Tanakh]]

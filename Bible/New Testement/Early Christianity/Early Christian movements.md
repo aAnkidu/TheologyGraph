@@ -1,3 +1,5 @@
+[[Background for interpretation of Christian stories]]
+
 [[Jewish-Christian Adoptionists]]
 [[Marcionite Christians]]
 [[Gnostic Christians]]

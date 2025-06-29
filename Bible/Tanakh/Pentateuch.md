@@ -1,4 +1,4 @@
-[[Hebrew Bible]]
+[[Tanakh]]
 The **Pentateuch** (from Greek _penta teuchos_, “five scrolls”) refers to the **first five books** of the Hebrew Bible (and Christian Old Testament):  
 **Genesis, Exodus, Leviticus, Numbers, and Deuteronomy**.
 

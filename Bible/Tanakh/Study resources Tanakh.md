@@ -1,4 +1,4 @@
-[[Hebrew Bible]]
+[[Tanakh]]
 [Jewish Study Bible](https://drive.google.com/file/d/1rFG5x6FDEQNkxeunHqOeQKPHLOtWgrgN/view?usp=drive_link)
 [The Ancient Near East History](https://drive.google.com/file/d/11Ees0890dtucjPjvPUsz3zPaP_2tRiO_/view?usp=drive_link)
 [The Religion of Israel by Yehezkel Kaufmann](https://drive.google.com/file/d/1wf9cFl_7_PEl32eU6YWYFJFkqI7wtZIt/view?usp=drive_link()

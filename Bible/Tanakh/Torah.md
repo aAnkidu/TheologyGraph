@@ -1,1 +1,1 @@
-[[Hebrew Bible]]
+[[Tanakh]]
