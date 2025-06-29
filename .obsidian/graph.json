@@ -15,6 +15,27 @@
       }
     },
     {
+      "query": "tag:#NTverse  ",
+      "color": {
+        "a": 1,
+        "rgb": 10500550
+      }
+    },
+    {
+      "query": "tag:#reserch_topic  ",
+      "color": {
+        "a": 1,
+        "rgb": 16205220
+      }
+    },
+    {
+      "query": "tag:#resources  ",
+      "color": {
+        "a": 1,
+        "rgb": 15634895
+      }
+    },
+    {
       "query": "path:History/References  ",
       "color": {
         "a": 1,
@@ -61,20 +82,6 @@
       "color": {
         "a": 1,
         "rgb": 5431378
-      }
-    },
-    {
-      "query": "tag:#reserch_topic  ",
-      "color": {
-        "a": 1,
-        "rgb": 16205220
-      }
-    },
-    {
-      "query": "tag:#resources  ",
-      "color": {
-        "a": 1,
-        "rgb": 15634895
       }
     },
     {
@@ -130,6 +137,6 @@
   "repelStrength": 16.7708333333333,
   "linkStrength": 0.9375,
   "linkDistance": 155,
-  "scale": 0.48691532720868946,
+  "scale": 0.43114769423067134,
   "close": false
 }

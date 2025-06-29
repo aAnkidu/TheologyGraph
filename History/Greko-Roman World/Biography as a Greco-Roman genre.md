@@ -1,4 +1,4 @@
-[[Gospels]]
+[[📜 Gospels]]
 Greco-Roman biographies, like those by Plutarch and Suetonius, focused less on factual accuracy or psychological development than modern biographies. Instead of explaining how people changed over time, they aimed to reveal a person’s stable character traits through stories and events. Oral tradition was often the main source, and chronological order was used mainly for structure, not to trace growth. Biographies were meant to portray exemplary lives for readers to admire and imitate.
 
 Ancient Greco-Roman biographies (Greek: _bioi_) focused less on historical precision and more on conveying the essential, enduring character traits of a subject. They aimed not to document development but to **illustrate moral character**—virtues to imitate and vices to avoid. The goal was often **instructional or inspirational**, rather than informational or psychological.
@@ -7,7 +7,7 @@ Biographers used **anecdotes, sayings, speeches, and stories of conflict** drawn
 
 📌 **Example: [[Plutarch's biographies]]**  
 
-Many modern scholars now agree that the New Testament [[Gospels]] are best understood as a specific form of **Greco-Roman biography**—focused on a religious figure. While they contain **distinctive features**, such variation is expected, as ancient literary genres often included flexible subtypes depending on the subject (e.g., rulers, philosophers, or religious figures).
+Many modern scholars now agree that the New Testament [[📜 Gospels]] are best understood as a specific form of **Greco-Roman biography**—focused on a religious figure. While they contain **distinctive features**, such variation is expected, as ancient literary genres often included flexible subtypes depending on the subject (e.g., rulers, philosophers, or religious figures).
 
 Ancient readers or hearers would have recognized the Gospels as **biographies of a religious leader**, even if they had never encountered Jesus before. They would anticipate that:
 

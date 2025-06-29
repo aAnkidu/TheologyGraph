@@ -1,4 +1,4 @@
-[[Gospels]]
+[[📜 Gospels]]
 
 Before the Gospels were written, **stories about Jesus were passed on by word of mouth**, spreading across **major urban areas of the Mediterranean**. These opportunities to tell stories must have presented themselves **for decades prior to the writing of the Gospels**, as otherwise there would be no way to account for the spread of the religion in a world without modern communication.
 
