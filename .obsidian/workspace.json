@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "88147e74607057a3",
+        "id": "844a54d7794dfb93",
         "type": "tabs",
         "children": [
           {
-            "id": "e408ba677bad3d14",
+            "id": "9e54a52c591b7c8b",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -31,25 +31,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "db34edd13b8d5e70",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
             "id": "563827c5152aed6f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "esch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,12 +56,26 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "db34edd13b8d5e70",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 484.5
   },
   "right": {
     "id": "4d304f96fa57150d",
@@ -164,13 +165,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e408ba677bad3d14",
+  "active": "9e54a52c591b7c8b",
   "lastOpenFiles": [
+    "Bible/New Testement/Gospels/📜 Gospel of Mark.md",
+    "Bible/New Testement/Gospels/📜 Gospel of Judas.md",
+    "History/Greko-Roman World/Pagans/Demigods.md",
     "Bible/New Testement/Gospels/Mark/Mark 8'31-33.md",
+    "Bible/New Testement/Gospels/Mark/Mark 13.md",
+    "Bible/New Testement/Gospels/Mark/Mark 13'30.md",
     "Bible/New Testement/Gospels/Mark/Mark 15'34.md",
     "Bible/New Testement/Gospels/Mark/Mark 15'38.md",
-    "Untitled.canvas",
+    "Bible/New Testement/Theological Q&A/Mark's Eschatology.md",
     "Bible/New Testement/Eschatology.md",
+    "Untitled.canvas",
+    "Bible/New Testement/Theological Q&A",
+    "Bible/New Testement/Theological Q&A/Supposed Contradictions/Time of Jesus' Death.md",
     "Bible/New Testement/Messiah.md",
     "Bible/New Testement/Gospels/Historical criticism/Mark/⚠️ The Charge of Blasphemy according to Mark.md",
     "Bible/New Testement/Gospels/Historical criticism/Mark/⚠️ The Messianic Secret.md",
@@ -187,12 +196,6 @@
     "Bible/New Testement/Gospels/Mark",
     "Bible/New Testement/Gospels/Untitled.md",
     "Bible/New Testement/Gospels/📜 Gospels.md",
-    "Bible/New Testement/Crucifixion.md",
-    "Bible/New Testement/Gospels/Historical criticism/Herodians.md",
-    "Bible/New Testement/Gospels/Historical criticism/Gospels' dating.md",
-    "Bible/New Testement/Gospels/Historical criticism/Passion narative.md",
-    "Bible/New Testement/\"Son of Man\".md",
-    "Bible/New Testement/Gospels/📜 Gospel of John.md",
     "Bible/New Testement/Gospels/Historical criticism/Mark",
     "Bible/New Testement/Gospels/Mattew",
     "Bible/New Testement/Gospels/Historical criticism",
@@ -201,8 +204,7 @@
     "History/Greko-Roman World",
     "History/Greko-Roman World/Judaism in First Century",
     "imgs/Pasted image 20250626220809.png",
-    "Bible/Supposed Contradictions",
-    "Bible/New Testement/Gospels",
+    "Bible/New Testement/Theological Q&A/Supposed Contradictions",
     "imgs/Pasted image 20250625235215.png",
     "Philosopy/Untitled.canvas"
   ]

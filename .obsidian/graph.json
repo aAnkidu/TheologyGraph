@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#todo  ",
@@ -99,7 +99,7 @@
       }
     },
     {
-      "query": "path:\"Bible/Supposed Contradictions\"  ",
+      "query": "path:\"Bible/New Testement/Theological Q&A/Supposed Contradictions\"  ",
       "color": {
         "a": 1,
         "rgb": 14104415
@@ -125,18 +125,25 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "path:\"Bible/New Testement/Theological Q&A\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13913719
+      }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -1.2,
-  "nodeSizeMultiplier": 1.0953125,
-  "lineSizeMultiplier": 1.4015625,
+  "textFadeMultiplier": -2.4,
+  "nodeSizeMultiplier": 1.29947916666667,
+  "lineSizeMultiplier": 2.1671875,
   "collapse-forces": false,
-  "centerStrength": 0.46875,
-  "repelStrength": 16.7708333333333,
-  "linkStrength": 0.9375,
-  "linkDistance": 155,
-  "scale": 0.43114769423067134,
+  "centerStrength": 0.489583333333333,
+  "repelStrength": 18.6458333333333,
+  "linkStrength": 1,
+  "linkDistance": 84,
+  "scale": 0.2973097011551578,
   "close": false
 }
