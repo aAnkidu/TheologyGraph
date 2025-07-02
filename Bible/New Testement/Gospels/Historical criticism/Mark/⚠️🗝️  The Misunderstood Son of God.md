@@ -1,5 +1,5 @@
 #reserch_topic 
-[[📜 Gospel of Mark]]
+[[📜 Mark]]
 
 One way to establish misunderstanding as a Markan theme is to read carefully through the first half of the Gospel and ask, who realizes that Jesus is the Son of God? The answer may come as a bit of a surprise.
 

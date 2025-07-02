@@ -1,0 +1,4 @@
+[[Historical criticism]]
+By establishing the genre of the book (*arguing that it was a kind of Greco-Roman biography[[Biography as a Greco-Roman genre]]*), and then asked ==how an informed reader might understand its message==. This hypothetical reader was one who knew how the genre of the book works and who had all of the background information (*of the first-century world*) that the author appears to presuppose.
+
+literary theorist would identify this approach as one kind of “reader-response criticism.” For our purposes, however, since the method focuses on a text’s literary genre within its historical context, I will call it the ==“literary-historical method”==.

@@ -1,5 +1,5 @@
 #resources 
-[[📜 Gospel of Mark]]
+[[📜 Mark]]
 
 **Mark’s Gospel – Scholarly Introductions and Literary Studies**
 

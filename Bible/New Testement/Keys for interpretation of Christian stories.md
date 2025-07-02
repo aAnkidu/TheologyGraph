@@ -1,4 +1,4 @@
-[[Pagan religions in GRW]]
+#todo Clean and make more consistent, move details to other notes
 
 Pagans who heard stories about Jesus and his miracles would have had no difficulty understanding what they meant. Among other things they meant that Jesus was himself divine, a divine man come to earth. [[Demigods]], [[The Life of Apollonius]]
 

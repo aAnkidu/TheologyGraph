@@ -1,4 +1,4 @@
-[[📜 Gospel of Mark]]
+[[📜 Mark]]
 
 Mark’s Gospel repeatedly signals that Jesus, though the Christ and Son of God, must suffer and die. After Peter’s confession of Jesus as the [[Messiah]], Jesus explicitly predicts his passion three times: he will be rejected by Jewish leaders, killed, and then raised from the dead ([[Mark 8'31-33]]). ==Despite these predictions, the disciples consistently fail to understand what Jesus means== ([[⚠️🗝️  The Misunderstood Son of God]]).
 

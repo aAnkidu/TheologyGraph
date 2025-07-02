@@ -1,0 +1,1 @@
+[[📜 Matthew]],  [[📜 Mark]],  [[📜 Luke]],  are often called the “Synoptic Gospels.” This is because they have so many stories in common that they can be placed side by side in columns and ==“seen together”== (the literal meaning of the word “synoptic”).

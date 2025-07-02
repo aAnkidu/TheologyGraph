@@ -1,6 +1,6 @@
 #reserch_topic 
 
-The [[📜 Gospel of Mark]] gives us some clues about the community for whom it was written. These readers—or rather, hearers—likely belonged to a Greek-speaking Christian community outside of Palestine. ==Most of them were probably Gentiles, not converts from Judaism.== This is suggested by passages such as Mark 7:3–4, where the author explains Jewish customs (like handwashing), something unnecessary for a Jewish audience. ==Interestingly, Mark even appears to misunderstand some practices, implying he himself may not have been Jewish.==
+The [[📜 Mark]] gives us some clues about the community for whom it was written. These readers—or rather, hearers—likely belonged to a Greek-speaking Christian community outside of Palestine. ==Most of them were probably Gentiles, not converts from Judaism.== This is suggested by passages such as Mark 7:3–4, where the author explains Jewish customs (like handwashing), something unnecessary for a Jewish audience. ==Interestingly, Mark even appears to misunderstand some practices, implying he himself may not have been Jewish.==
 
 At the same time, the Gospel preserves many deeply Jewish traditions about Jesus. These were likely inherited from the earliest Jewish followers of Jesus and passed down through oral tradition. Mark and some in his community may have converted into Jewish faith through Jesus, worshipping the Jewish God and seeing Jesus as the Jewish messiah whose death brought salvation not just to Israel but to the whole world.
 

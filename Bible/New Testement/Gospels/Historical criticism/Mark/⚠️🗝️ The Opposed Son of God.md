@@ -1,4 +1,4 @@
-[[📜 Gospel of Mark]]
+[[📜 Mark]]
 
 ### 🗝️Opposition to Jesus
 

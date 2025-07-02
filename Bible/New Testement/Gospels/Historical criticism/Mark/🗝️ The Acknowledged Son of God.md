@@ -1,4 +1,4 @@
-[[📜 Gospel of Mark]]
+[[📜 Mark]]
 
 ==The healing of the blind man== in Mark 8:22–26 is striking because it takes place in stages, making it the only miracle Jesus performs that is not immediate and effortless. When asked to heal the man, Jesus takes him by the hand, leads him out of the village, spits on his eyes, and asks if he can see. The man replies that he can, but only vaguely—people appear like walking trees. Jesus then lays his hands on the man’s eyes and looks intently at him, after which the man begins to see clearly.
 

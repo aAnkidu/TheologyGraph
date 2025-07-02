@@ -1,4 +1,4 @@
-[[Background for interpretation of Christian stories]]
+[[Keys for interpretation of Christian stories]]
 
 [[Jewish-Christian Adoptionists]]
 [[Marcionite Christians]]

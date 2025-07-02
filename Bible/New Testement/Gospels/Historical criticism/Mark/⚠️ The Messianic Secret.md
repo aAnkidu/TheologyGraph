@@ -1,5 +1,5 @@
 #reserch_topic 
-[[📜 Gospel of Mark]]
+[[📜 Mark]]
 
 After Peter’s confession, Jesus instructs his disciples not to tell anyone who he is. Interestingly, Jesus attempts to keep his identity secret on several other occasions in Mark’s Gospel. When he casts out demons, he forbids them to speak “because they knew him” (1:34; cf. 3:12). After healing a leper, he commands him to “say nothing to anyone” (1:43). When raising a young girl from the dead, he strictly orders “that no one should know this” (5:43). Before the discussion with the disciples at the end of chapter 8, he never openly speaks about his identity. Even when someone finally recognizes him as the messiah, he commands silence.
 

@@ -1,1 +1,2 @@
-[[Tanakh]]
+In [[Tanakh]]
+Jewish law

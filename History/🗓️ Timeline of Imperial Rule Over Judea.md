@@ -1,10 +1,10 @@
 #### **[[🏛️ Babylonian Empire]]** (605–539 B.C.E.)
 
-- In **587/586 B.C.E.**, the Babylonian king **Nebuchadnezzar II** destroyed **Jerusalem** and the **[[First Temple]]**, exiling many Jews to Babylon — a key event known as the **Babylonian Exile**
+- In **587/586 B.C.E.**, the Babylonian king **Nebuchadnezzar II** destroyed **Jerusalem** and the **[[🕍 First Temple]]**, exiling many Jews to Babylon — a key event known as the **Babylonian Exile**
 #### **[[🏛️ Persian Empire]] (Achaemenid)** (539–331 B.C.E.)
 
 - In **539 B.C.E.**, **Cyrus the Great** of Persia conquered Babylon and allowed exiled peoples, including Jews, to return home.
-- The **[[Second Temple]]** was rebuilt (~516 B.C.E.).
+- The **[[🕍 Second Temple]]** was rebuilt (~516 B.C.E.).
 
 #### **Greek Rule – Hellenistic Period (Alexander & Successors)** (331–63 B.C.E.)
 
@@ -30,7 +30,7 @@
 - Judea remained semi-independent but **subordinate to Rome**.
 - **Antipater the Idumean**, a Roman-appointed administrator, and later his son **[[👑 Herod the Great]]**, became the key political figures.
 - In **37 B.C.E.**, **Herod** was officially declared **“King of the Jews”** by the Roman Senate. He ruled **as a client king** until his death in **4 B.C.E.**
-    - Herod maintained Roman loyalty while **expanding Judean territory** and **rebuilding the [[Second Temple]]**.
+    - Herod maintained Roman loyalty while **expanding Judean territory** and **rebuilding the [[🕍 Second Temple]]**.
     - His rule marked the **end of Hasmonean political power**, though he married into the family for legitimacy.        
 
 ###### 📍 **Division and Direct Roman Rule (6 C.E.–66 C.E.)**

@@ -1,6 +1,6 @@
 #reserch_topic 
 
-[[📜 Gospel of Mark]] ends in a strikingly open and unsettling way. After Jesus is buried by
+[[📜 Mark]] ends in a strikingly open and unsettling way. After Jesus is buried by
 [[👤 Joseph of Arimathea]]—a respected Jewish leader—two women see where the body is laid. The following morning, Mary Magdalene, Mary the mother of James, and Salome return to the tomb to anoint the body, but instead find the stone rolled away and a young man in white who tells them that Jesus has risen and is going ahead to Galilee (Mark 16:1–7).
 
 The women flee in fear and tell no one, for they were afraid (16:8). This abrupt and silent [[⚠️ Unexpected ending of Mark]] has long puzzled readers. How could the Gospel conclude without the disciples learning that Jesus has been raised? Why is there no resurrection appearance?

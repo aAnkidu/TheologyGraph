@@ -1,4 +1,4 @@
-[[📜 Gospel of Mark]]
+[[📜 Mark]]
 [[⚠️ The Charge of Blasphemy according to Mark]]
 
 Mark’s Gospel shows that Jesus’ disciples never fully understand who he is. They betray, deny, and abandon him when he needs them most—Judas hands him over, Peter denies him three times, and the others flee. Their hopes for a victorious messiah who would restore Israel’s kingdom are dashed because Jesus is the Son of God who must suffer and die.

@@ -1,5 +1,5 @@
 #reserch_topic 
-[[📜 Gospel of Mark]]
+[[📜 Mark]]
 
 Jesus’ trial before the Jewish Sanhedrin in Mark is both poignant and complex. When the high priest asks Jesus, “Are you the Messiah, the Son of the Blessed One?” Jesus affirms, “I am; and you will see the Son of Man seated at the right hand of the Power and coming with the clouds of heaven” (14:61–62). The high priest immediately accuses him of blasphemy, and the Sanhedrin agrees.
 
