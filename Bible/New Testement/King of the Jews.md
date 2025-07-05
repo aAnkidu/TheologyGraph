@@ -1,5 +1,3 @@
-#reserch_topic 
-
 The title **“King of the Jews”** appears mostly in **Roman or outsider contexts**, especially in the **New Testament**. It is used during Jesus’ **trial and crucifixion** (e.g. Mark 15:2, John 19:19), and likely served as a **political accusation**—suggesting that Jesus claimed to rule the Jewish people, which would have been seen as a **threat to Roman authority**.
 
 This phrase is different from **“Jewish king”**, which is a more **internal, ethnic-religious term** used to describe **a king from among the Jewish people**, like **[[👑 David]] or [[👑 Hezekiah]]**, who ruled with traditional legitimacy.

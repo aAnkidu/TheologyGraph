@@ -4,34 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "6afa14c703ef7828",
+        "id": "177e465b89a82749",
         "type": "tabs",
         "children": [
           {
-            "id": "69e8dabd35e6b0c7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "95c735298c0847c1",
+            "id": "f7adef9bac9ce6c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/New Testement/Gospels/Mark/Mark 8'31-33.md",
+                "file": "Philosopy/Greco-Roman World/Stoicism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mark 8'31-33"
+              "title": "Stoicism"
+            }
+          },
+          {
+            "id": "596dd08b048661b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bible/New Testement/Early Christianity/Gnostic Christians.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gnostic Christians"
+            }
+          },
+          {
+            "id": "c9ae7f5f5b7849f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philosopy/Mind Body Dualism.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mind Body Dualism"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,35 +198,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69e8dabd35e6b0c7",
+  "active": "596dd08b048661b4",
   "lastOpenFiles": [
+    "Bible/New Testement/Gospels/Non-canonical gospels/Aeon.md",
+    "Philosopy/Greco-Roman World/Neoplatonism.md",
+    "Philosopy/Greco-Roman World/Platonism.md",
+    "Philosopy/Mind Body Dualism.md",
+    "Philosopy/Emanationism.md",
+    "Philosopy/Dualism.md",
+    "Philosopy/Philosophy&Religion in Greco-Roman World.md",
+    "Philosopy/Greco-Roman World/Epicureanism.md",
+    "Philosopy/Greco-Roman World/Stoicism.md",
+    "Philosopy/Greco-Roman World",
+    "Bible/New Testement/Gospels/Non-canonical gospels/📜 Thomas.md",
     "Bible/New Testement/Gospels/📜 Matthew.md",
-    "Bible/New Testement/Gospels/Matthew/Matthew 14'22.md",
-    "Bible/New Testement/Gospels/Mark/Mark 8'31-33.md",
-    "Bible/New Testement/Gospels/Mark/Mark 6'45.md",
-    "Bible/Tanakh/Torah.md",
-    "Bible/New Testement/Gospels/Historical criticism/Concordance.md",
-    "Bible/New Testement/Gospels/📜 Mark.md",
-    "Bible/Tanakh/Tanakh.md",
-    "Bible/Exegesis.md",
-    "History/Greko-Roman World/Judaism in First Century/🕍🔥 Destruction of the Second Temple.md",
-    "History/Greko-Roman World/Judaism in First Century/🕍 Second Temple.md",
-    "History/Greko-Roman World/Biography as a Greco-Roman genre.md",
-    "Bible/New Testement/Gospels/Historical criticism/Reader-response criticism.md",
-    "Bible/New Testement/Early Judaism/Pharisees.md",
+    "Bible/New Testement/Gospels/Non-canonical gospels/γνῶσις (Gnosis).md",
+    "Bible/New Testement/Gospels/Non-canonical gospels/πλήρωμα (Pleroma).md",
+    "Bible/New Testement/Gospels/Historical criticism/Mark/🗝️ The Crucified Son of God.md",
+    "Bible/New Testement/Gospels/Historical criticism/Mark/⚠️🗝️ The Opposed Son of God.md",
     "Bible/New Testement/Theological Q&A/Mark's Eschatology.md",
-    "Bible/New Testement/Gospels/Historical criticism/Christian anti-Semitism.md",
-    "Bible/New Testement/Gospels/Historical criticism/Q Source.md",
-    "Bible/New Testement/Gospels/Matthew/Matthew 19'16–17.md",
-    "Bible/New Testement/Gospels/Luke/Luke 18'18–19.md",
-    "Bible/New Testement/Gospels/📜 Luke.md",
-    "Bible/New Testement/Theological Q&A/The story of the rich young ruler.md",
-    "Bible/New Testement/Gospels/Luke",
-    "Bible/New Testement/Gospels/Mark/Mark 10'17–18.md",
     "Bible/New Testement/Gospels/Mark/Mark 13'30.md",
-    "Bible/New Testement/Gospels/Mark/Mark 15'34.md",
-    "Bible/New Testement/Gospels/Mark/Mark 15'38.md",
-    "Bible/New Testement/Gospels/Mark/Mark 13.md",
+    "Bible/New Testement/Messiah.md",
+    "History/🏛️ Babylonian Empire.md",
+    "History/🕍 First Temple.md",
+    "Bible/New Testement/King of the Jews.md",
+    "Bible/Tanakh/Jewish King.md",
+    "Bible/New Testement/Gospels/Non-canonical gospels/λόγια (Logia).md",
+    "Bible/New Testement/Gospels/Matthew/Matthew 21'5-7.md",
+    "Bible/New Testement/Gospels/Historical criticism/Matthew/Jesus as the New Moses.md",
+    "Bible/New Testement/Gospels/Matthew/Matthew 5'17-20.md",
+    "Bible/New Testement/Gospels/Historical criticism/Matthew",
+    "Bible/New Testement/Gospels/Non-canonical gospels",
+    "Bible/New Testement/Gospels/Luke",
     "Bible/New Testement/Gospels/Matthew",
     "Bible/New Testement/Gospels/Historical criticism/Sources",
     "Untitled.canvas",
@@ -215,9 +237,6 @@
     "Bible/New Testement/Gospels/Mark",
     "Bible/New Testement/Gospels/Historical criticism/Mark",
     "Bible/New Testement/Gospels/Mattew",
-    "Bible/New Testement/Gospels/Historical criticism",
-    "Сіроус",
-    "TheologyGraph",
     "imgs/Pasted image 20250626220809.png",
     "imgs/Pasted image 20250625235215.png",
     "Philosopy/Untitled.canvas"

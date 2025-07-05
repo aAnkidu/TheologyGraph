@@ -1,5 +1,21 @@
 [[Early Christian movements]]
-Gnostics, so named because of their claim that special “gnosis” (Greek for “knowledge”) is necessary for salvation.
+
+>Who we are, and what we are becoming—  
+>sparks recalled from the silence of stars. 
+>
+>Where we were—within the voice before time—  
+>and where we are cast—into flesh and forgetting.
+>
+>Whither we hasten—toward the flame or the fountain? 
+>Not to escape, but to awaken within the fire.
+>
+>How are we redeemed?  
+>By remembrance. By light clothed in dust.
+>
+>What is birth but exile?  
+>What is rebirth but return?
+
+Gnostics, so named because of their claim that special [[γνῶσις (Gnosis)]] (Greek for “knowledge”) is necessary for salvation.
 
 Some Gnostics agreed with [[Marcionite Christians]] that Jesus was totally divine and not at all human, and for much the same reason that he did: Jesus represented a different God from the one who created this world.
 

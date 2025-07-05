@@ -6,7 +6,7 @@ The term came to refer to a future deliverer of Israel only after the Babylonian
 
 By the time of the New Testament, **Jewish expectations of the messiah had diversified**:
 
-- Some envisioned a **warrior-king** like David.
+- Some envisioned a **warrior-king** like [[👑 David]].
 - Others anticipated a **cosmic judge** to defeat evil and restore justice.
 - Groups like the **Dead Sea Scrolls community** hoped for a **priestly messiah** to interpret God’s law.
 
